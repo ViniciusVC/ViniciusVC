@@ -1,8 +1,8 @@
 ## 👋 Olá, meu nome é Vinícius Valente Coutinho (@ViniciusVC) ✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusVC&theme=dark&show_icons=true)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jasongaylord&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVC&langs_count=5&theme=dark)]()
 
 ## ✨ Meu site 😎
 
