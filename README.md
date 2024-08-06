@@ -1,7 +1,5 @@
 ## 👋 Olá, meu nome é Vinícius Valente Coutinho (@ViniciusVC) ✨
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusVC&theme=dark&show_icons=true)
-
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusVC&langs_count=5&theme=dark)]()
 
 ## ✨ Meu site 😎
@@ -52,4 +50,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/designervvc/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/user/vvcestudio)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusVC&theme=dark&show_icons=true)
 
